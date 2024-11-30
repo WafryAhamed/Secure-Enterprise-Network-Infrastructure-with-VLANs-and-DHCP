@@ -7,9 +7,9 @@
 
 ![image](https://github.com/user-attachments/assets/dad23662-7d31-4ba0-bb4c-6ad307f828fc)
 
-![image](https://github.com/user-attachments/assets/72c9fe58-bdd9-4604-8812-eaf81317cb40)  
 
 
+---
 # Network Components and Configuration:
 VLANs and IP Addressing:
 
@@ -50,3 +50,5 @@ VLANs and IP Addressing:
 - Implement real-world networking practices using Cisco Packet Tracer.  
 
 This project is an excellent demonstration of a secure, enterprise-grade network setup suitable for businesses aiming for reliable and secure IT infrastructure.
+
+---
