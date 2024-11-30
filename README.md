@@ -1,2 +1,33 @@
 # Secure-Enterprise-Network-Infrastructure-with-VLANs-and-DHCP
-Secure-Enterprise-Network-Infrastructure-with-VLANs-and-DHCP is a network design project for a mid-sized company using Cisco Packet Tracer. It focuses on VLAN-based department separation, DHCP for dynamic IP allocation, and firewall configurations to ensure secure internet connectivity and efficient communication.
+
+
+# Description  
+
+**Secure-Enterprise-Network-Infrastructure-with-VLANs-and-DHCP** is a comprehensive network design and implementation project tailored for a mid-sized company. The project focuses on creating a secure and efficient network architecture using Cisco Packet Tracer. Key features include VLAN-based department separation, dynamic IP address allocation, robust firewall configurations, and internet connectivity to ensure seamless communication and security.
+
+---
+
+### Key Highlights:  
+- **VLAN Configuration:** Logical separation of network traffic into 10 VLANs for user, administrative, academic, and security departments, ensuring enhanced security and streamlined management.  
+- **Dynamic IP Allocation:** Setup of DHCP pools for each VLAN to automatically assign IP addresses, using the upper half of each VLAN's /24 subnet.  
+- **Inter-VLAN Routing:** Implementation of router-on-a-stick for inter-VLAN communication, enabling efficient data exchange between departments.  
+- **Firewall Setup:** Configured Access Control Lists (ACLs) on the router to restrict unauthorized access and secure network traffic.  
+- **Internet Access:** Integration of a simulated cloud for internet connectivity, with a default route configured for external communication.  
+- **Star Topology:** A centralized architecture connecting all VLANs through a central Layer 2 switch to a Layer 3 router for efficient traffic management.  
+
+---
+
+### Features and Benefits:  
+1. **Security:** VLANs and firewalls ensure data integrity and prevent unauthorized access.  
+2. **Scalability:** The architecture supports future expansions and upgrades.  
+3. **Efficiency:** Dynamic IP assignment and centralized routing simplify network administration.  
+4. **Connectivity:** Reliable internet access for all departments enhances productivity.  
+
+---
+
+### Learning Outcomes:  
+- Design a secure and scalable enterprise network infrastructure.  
+- Configure VLANs, DHCP, firewalls, and inter-VLAN routing.  
+- Implement real-world networking practices using Cisco Packet Tracer.  
+
+This project is an excellent demonstration of a secure, enterprise-grade network setup suitable for businesses aiming for reliable and secure IT infrastructure.
