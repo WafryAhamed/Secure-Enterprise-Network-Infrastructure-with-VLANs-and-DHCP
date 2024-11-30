@@ -13,16 +13,16 @@
 # Network Components and Configuration:
 VLANs and IP Addressing:
 
-**VLAN 10:**  User Department 1 - 192.168.10.0/24
-**VLAN 20:**  User Department 2 - 192.168.20.0/24
-**VLAN 30:**  User Department 3 - 192.168.30.0/24
-**VLAN 40:**  User Department 4 - 192.168.40.0/24
-**VLAN 50:**  Administrative Department - 192.168.50.0/24
-**VLAN 60:**  Academic Department 1 - 192.168.60.0/24
-**VLAN 70:**  Academic Department 2 - 192.168.70.0/24
-**VLAN 80:**  Academic Department 3 - 192.168.80.0/24
-**VLAN 90:**  Academic Department 4 - 192.168.90.0/24
-**VLAN 100:** Security and Emergency Response - 192.168.100.0/24
+-**VLAN 10:**  User Department 1 - 192.168.10.0/24
+-**VLAN 20:**  User Department 2 - 192.168.20.0/24
+-**VLAN 30:**  User Department 3 - 192.168.30.0/24
+-**VLAN 40:**  User Department 4 - 192.168.40.0/24
+-**VLAN 50:**  Administrative Department - 192.168.50.0/24
+-**VLAN 60:**  Academic Department 1 - 192.168.60.0/24
+-**VLAN 70:**  Academic Department 2 - 192.168.70.0/24
+-**VLAN 80:**  Academic Department 3 - 192.168.80.0/24
+-**VLAN 90:**  Academic Department 4 - 192.168.90.0/24
+-**VLAN 100:** Security and Emergency Response - 192.168.100.0/24
 
 ---
 
