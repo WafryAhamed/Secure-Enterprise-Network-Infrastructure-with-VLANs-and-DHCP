@@ -5,6 +5,8 @@
 
 **Secure-Enterprise-Network-Infrastructure-with-VLANs-and-DHCP** is a comprehensive network design and implementation project tailored for a mid-sized company. The project focuses on creating a secure and efficient network architecture using Cisco Packet Tracer. Key features include VLAN-based department separation, dynamic IP address allocation, robust firewall configurations, and internet connectivity to ensure seamless communication and security.
 
+![image](https://github.com/user-attachments/assets/dad23662-7d31-4ba0-bb4c-6ad307f828fc)
+
 ![image](https://github.com/user-attachments/assets/72c9fe58-bdd9-4604-8812-eaf81317cb40)  
 
 
