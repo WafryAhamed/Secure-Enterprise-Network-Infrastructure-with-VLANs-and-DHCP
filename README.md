@@ -32,7 +32,7 @@ VLANs and IP Addressing:
 - **Inter-VLAN Routing:** Implementation of router-on-a-stick for inter-VLAN communication, enabling efficient data exchange between departments.  
 - **Firewall Setup:** Configured Access Control Lists (ACLs) on the router to restrict unauthorized access and secure network traffic.  
 - **Internet Access:** Integration of a simulated cloud for internet connectivity, with a default route configured for external communication.  
-- **Star Topology:** A centralized architecture connecting all VLANs through a central Layer 2 switch to a Layer 3 router for efficient traffic management.  
+- **Star Topology:** Utilized a Cisco Catalyst 3650 Layer 3 switch, linking all VLANs through individual Cisco 2960 Layer 2 switches, with a Cisco 2911 router handling routing and traffic control for efficient, centralized management.  
 
 ---
 
